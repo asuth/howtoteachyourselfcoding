@@ -12,4 +12,5 @@ A few things to note:
 Class begins at 4pm PDT every Monday, Wednesday, Friday for the month of August. Classes will be 1 hour long, but we will hold the room open for 30 more minutes for questions and discussions.
 
 More to come shortly!
+
 -Andrew
