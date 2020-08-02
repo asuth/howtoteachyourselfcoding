@@ -1,6 +1,6 @@
 Hello, and welcome to the How to Teach Yourself Coding course! I’m your instructor, Andrew Sutherland.
 
-Tomorrow is our first class! Here are actions you need to take before class: 
+**Tomorrow is our first class!** Here are actions you need to take before class: 
 1. Take this [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLScriqTY2MAW_l2tKAFCh0bhfelS071F2WFsFA9jymEI6cnSig/viewform?usp=sf_link) (required, should take 2 minutes).
 2. Sign up for Repl.it’s [hacker plan](https://repl.it/site/pricing) ($5/mo) if you haven’t already. We will be checking the class roster against the paid subscriber list tomorrow (you must use the same email for both). If you signed up for the $100 invoice, we'll contact you.
 
